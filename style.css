@@ -1,0 +1,46 @@
+.container{
+    background-color: rgb(105, 105, 105);
+    padding: 10px;
+    width: fit-content;
+    border-radius: 2px;
+}
+
+.feild {
+    height: 50px;
+    border: none;
+}
+
+.column {
+    width: 43px;
+}
+
+.dobleCol {
+    width: 90px;
+}
+
+.btn {
+    background-color: #89f48c;
+}
+
+.btn:hover {
+    background-color: #168f1a;
+    color: white;
+}
+
+.changeBg {
+    background-color: rgb(254, 178, 124);
+}
+
+.changeBg:hover {
+    background-color: rgb(234, 104, 12);
+    color: white;
+}
+
+.changeBg1 {
+    background-color: rgb(185, 185, 185);
+}
+
+.changeBg1:hover {
+    background-color: rgb(57, 57, 57);
+    color: white;
+}
